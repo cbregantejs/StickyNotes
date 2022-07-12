@@ -1,4 +1,9 @@
 # StickyNotes
 aplicación de notas con javascript
 
-## demo online https://cbregantejs.github.io/StickyNotes/
+
+## Demo
+
+[[demo]](https://cbregantejs.github.io/StickyNotes/)
+
+
