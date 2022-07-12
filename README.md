@@ -4,6 +4,6 @@ aplicación de notas con javascript
 
 ## Demo
 
-[demo online](https://cbregantejs.github.io/StickyNotes/){:target="_blank"}
+[demo online](https://cbregantejs.github.io/StickyNotes/)
 
 
